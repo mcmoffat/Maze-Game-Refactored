@@ -11,7 +11,7 @@ Additionally replaced components of program originally implememntd by group memb
 
 Source code can be located within following directory:
 
--> Maze-Game-Refactored
+-> mazeGameRefactored
   -> src/main
     -> java
       -> com/example/mazegamerefactored
