@@ -9,4 +9,11 @@ Originally designed as a group project (of 3 members) for a university course wi
 Personally redesigned to use the Model-View-Controler design pattern and the Observer design pattern.
 Additionally replaced components of program originally implememntd by group members with personal implementation. 
 
+Source code can be located within following directory:
+
+-> Maze-Game-Refactored
+  -> src/main
+    -> java
+      -> com/example/mazegamerefactored
+
 
